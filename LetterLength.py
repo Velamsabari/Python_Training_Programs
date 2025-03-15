@@ -1,0 +1,5 @@
+value = input("Enter the string :\n")
+str1 = value.replace(" ","")
+print(str1)
+lenOfString = len(str1)
+print(f"Length of String is : {lenOfString}")
